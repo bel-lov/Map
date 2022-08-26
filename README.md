@@ -9,4 +9,4 @@
 
 Реализуйте метод translate(code), позволяющий по коду получить текст ошибки, а в случае отсутствия подобного кода возвращать строку 'Unknown error'.
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/bel-lov/map)](https://ci.appveyor.com/api/projects/status/github/bel-lov/map)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/bel-lov/Map)](https://ci.appveyor.com/api/projects/status/github/bel-lov/Map)
