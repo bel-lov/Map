@@ -7,11 +7,11 @@ test('400', () => {
 });
 
 test('404', () => {
-  expect(error.translate(400)).toBe('сервер не может найти запрошенный ресурс');
+  expect(error.translate(404)).toBe('сервер не может найти запрошенный ресурс');
 });
 
 test('405', () => {
-  expect(error.translate(400)).toBe('у Вас не прав доступа');
+  expect(error.translate(405)).toBe('у Вас не прав доступа');
 });
 
 test('Unknown error', () => {
